@@ -1,5 +1,10 @@
 # Todo Django
 
+ Here is the link:
+    ```
+    https://yashnarsamiyev.pythonanywhere.com
+    ```
+
 Todo Django is a simple web application built with Django, allowing users to create, manage, and organize their to-do lists efficiently.
 
 ## Features
@@ -62,7 +67,7 @@ Contributions are welcome! If you have any suggestions, feature requests, or bug
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
